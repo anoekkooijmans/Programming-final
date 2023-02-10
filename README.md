@@ -12,4 +12,5 @@ To run the analysis download the following files: [human-development-index.csv](
 2. The [Mental Health dataset](https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder?resource=download) was retrieved from kaggle by the author Amit.  
 
 #### Author: Anoek Kooijmans
-#### Date: Febuary 10, 2023
+#### Date: February 10, 2023
+
